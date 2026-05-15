@@ -1,1 +1,0 @@
-# student_assistant_app
